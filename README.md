@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://marcelsgreensoap.com/products/hygienische-handdoekjes-vanille-kersenbloesem
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Screenshot van de home pagina (small screen)
   <img src="readme-images/sshome.jpeg" width="375px" alt="screenshot van de home pagina (small screen)">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Screenshot van de product pagina (small screen)
   <img src="readme-images/ssproduct.jpeg" width="375px" alt="screenshot van de product pagina (small screen)">
  
 </details>
